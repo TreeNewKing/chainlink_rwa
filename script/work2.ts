@@ -1,7 +1,7 @@
 import { ethers } from "hardhat"
 
 async function main() {
-    const realEstateToken='0x9cF04164D51777234a6f97428D1BFc1D40cD6837'
+    const realEstateToken=''
     const functionsRouterAddress='0xA9d587a00A31A52Ed70D6026794a8FC5E2F5dCb0'
    // 获取签名者
    const signers = await ethers.getSigners();

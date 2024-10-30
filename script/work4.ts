@@ -1,7 +1,7 @@
 import { ethers } from "hardhat"
 
 async function main() {
-    const fractionalizedRealEstateTokenAddress='0x9cF04164D51777234a6f97428D1BFc1D40cD6837'
+    const fractionalizedRealEstateTokenAddress=''
 
     // 获取签名者
    const signers = await ethers.getSigners();

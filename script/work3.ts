@@ -1,7 +1,7 @@
 import { ethers } from "hardhat"
 
 async function main() {
-    const realEstateTokenAddress='0x9cF04164D51777234a6f97428D1BFc1D40cD6837'
+    const realEstateTokenAddress=''
     const usdc='0x5425890298aed601595a70AB815c96711a31Bc65'
     const usdcUsdAggregatorAddress='0x97FE42a7E96640D932bbc0e1580c73E705A8EB73'
     const usdcUsdFeedHeartbeat='86400'
